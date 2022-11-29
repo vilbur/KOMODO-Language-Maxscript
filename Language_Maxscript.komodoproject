@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="5a216ee7-9be8-4dff-a698-a34732b449fe" kpf_version="5" name="Language_Maxscript.komodoproject">
+<livefolder id="2c2d3d37-50b2-488b-b69c-0d1038185276" idref="5a216ee7-9be8-4dff-a698-a34732b449fe" name="keywords" url="3DsMax/keywords/">
+</livefolder>
+<file id="e6cc5a69-5926-402a-bc87-ff7c198f397d" idref="5a216ee7-9be8-4dff-a698-a34732b449fe" name="maxscript-mainlex.udl" url="udl/maxscript-mainlex.udl">
+</file>
+<preference-set idref="5a216ee7-9be8-4dff-a698-a34732b449fe" id="project" preftype="project">
+  <boolean id="configured">1</boolean>
+  <string id="koextgen.target">komodolang</string>
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
