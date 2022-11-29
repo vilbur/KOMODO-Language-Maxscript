@@ -1,0 +1,1 @@
+# KOMODO-Language-Maxscript
