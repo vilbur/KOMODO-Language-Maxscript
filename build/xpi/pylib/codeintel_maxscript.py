@@ -6589,8 +6589,14 @@ keywords = [
         "useEnvironmentMap",
         "usePostRendScript",
         "usePreRendScript",
-        "videoPostTracks"
-
+        "videoPostTracks",
+		"GetDictValue",
+		"SetDictValue",
+		"PutDictValue",
+		"RemoveDictValue",
+		"HasDictValue",
+		"GetDictKeys",
+		"GetDictKeyType"
 ]
 
 #---- Lexer class

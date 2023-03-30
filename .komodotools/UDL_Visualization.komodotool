@@ -33,10 +33,10 @@
     "                                koICodeIntelBuffer.TO_HTML_INCLUDE_HTML,", 
     "                             document.baseName)"
   ], 
-  "version": "1.0.12", 
+  "version": "1.1.5", 
   "rank": 100, 
   "trigger_enabled": false, 
   "async": false, 
   "type": "macro", 
   "icon": "chrome://fugue/skin/icons/magnifier-zoom-actual-equal.png"
-}
+}}
